@@ -18,7 +18,7 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ### learnings
 1. headers
 1. ordered list using 1., 2.
-1. unordered list using -,*,+
+1. unordered list using -,* & +
 1. task list
 1. adding sample code
 1. adding an image
